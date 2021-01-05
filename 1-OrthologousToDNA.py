@@ -23,7 +23,7 @@ for line in arquivo:
 		pass
 	else:
 		count += 1
-		new_arquivo_dna = open("OG" + str(count) + "_dna.fasta", "w")
+		new_arquivo_dna = open("1-GeneFamiliesDivTime/OG" + str(count) + "_dna.fasta", "w")
 		line = line.split()
 		for item in line:
 			try:
