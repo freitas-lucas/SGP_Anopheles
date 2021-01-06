@@ -16,5 +16,5 @@ Repository with all scripts used by Freitas &amp; Nery (under review at Genome B
 
 ## To run positive selection analyses
 * After align all sequences using [2-LoopPrank.py](https://github.com/freitas-lucas/SGP_Anopheles/blob/main/2-LoopPrank.py), [8-LoopGARD.py](https://github.com/freitas-lucas/SGP_Anopheles/blob/main/8-LoopGard.py) was used to run [GARD](https://academic.oup.com/mbe/article/23/10/1891/1096946);
-* [9-LoopMEME.py](https://github.com/freitas-lucas/SGP_Anopheles/blob/main/9-LoopMEME.py) was used to run [MEME}(https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002764);
+* [9-LoopMEME.py](https://github.com/freitas-lucas/SGP_Anopheles/blob/main/9-LoopMEME.py) was used to run [MEME](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002764);
 * [10-LoopFUBAR.py](https://github.com/freitas-lucas/SGP_Anopheles/blob/main/10-LoopFUBAR.py) was used to run [FUBAR](https://academic.oup.com/mbe/article/30/5/1196/998247);
