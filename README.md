@@ -1,5 +1,5 @@
 # Positive selection in Anopheline salivary glands proteins
-Repository with all scripts used by Freitas &amp; Nery (under review at Genome Biology and Evolution).
+Repository with all scripts used by [Freitas &amp; Nery (2022)](https://www.sciencedirect.com/science/article/pii/S1567134822000685).
 
 ## To select sequences for divergence time estimation
 * [0-VectorBaseOrthologous.R](https://github.com/freitas-lucas/SGP_Anopheles/blob/main/0-VectorBaseOrthologous.R) was used to retrieve 1:1 orthologous gene families to perform the divergence time estimation for 19 *Anopheles* species and *Aedes aegypti*;
